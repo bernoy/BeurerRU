@@ -391,3 +391,7 @@ body {
 .paragraph-color-gray {
   color: #777778 !important;
 }
+
+.l-half.tablets-haigh {
+  height: 60%;
+}

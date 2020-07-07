@@ -1,0 +1,26 @@
+.flex{
+	display: flex;
+	justify-content: center;
+	background-color: #fff;
+}
+.color-background-first{
+	background-color: #fff;
+}
+.color-background-second{
+	background-color: #EFEFED;
+}
+.l-section{
+&.row-right{
+		padding:10px 0px;
+		justify-content: flex-end;
+	}
+}
+.l-main-title>span{
+	color: #C50451;
+}
+.title-color-brown{
+	color: #604944 !important;
+}
+.paragraph-color-gray{
+	color: #777778 !important;
+}
